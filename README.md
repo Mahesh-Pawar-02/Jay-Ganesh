@@ -1,1 +1,2 @@
-# Jay-Ganesh
+# C Programming
+## First C Program
